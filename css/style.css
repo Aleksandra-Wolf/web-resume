@@ -661,6 +661,7 @@ body {
   text-transform: uppercase;
   color: var(--txt-c-light);
   margin: 0 25px 20px 25px;
+  width: 275px;
 }
 
 .calc-page-subtitle {
@@ -671,6 +672,7 @@ body {
   text-transform: uppercase;
   color: var(--txt-c-light);
   margin: 0;
+  width: 275px;
 }
 
 .calc-page-subtitle span {
@@ -1391,6 +1393,7 @@ body {
     line-height: 60px;
     text-align: left;
     margin: 0 0 35px 0;
+    width: auto;
   }
 
   .calc-page-subtitle {
